@@ -1,0 +1,34 @@
+[
+  {
+    "email": "seller@seller.com",
+    "password": "1234qwer",
+    "role": "Seller",
+    "name": "Tukang Baju",
+    "address": "Cijotang",
+    "gender": "Female"
+  },
+  {
+    "email": "seller2@seller.com",
+    "password": "1234qwer",
+    "role": "Seller",
+    "name": "Tukang Listrik",
+    "address": "Cisitu",
+    "gender": "Male"
+  },
+  {
+    "email": "buyer@buyer.com",
+    "password": "1234qwer",
+    "role": "Buyer",
+    "name": "Anya",
+    "address": "Cilandak",
+    "gender": "Female"
+  },
+  {
+    "email": "buyer2@buyer.com",
+    "password": "1234qwer",
+    "role": "Buyer",
+    "name": "Aris",
+    "address": "Ciampea",
+    "gender": "Male"
+  }
+]
